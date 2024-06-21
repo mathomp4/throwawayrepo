@@ -3,6 +3,8 @@ This is a throwaway repo
 
 Add a new line
 
+This is a cool line
+
 This is with tt: <tt>foo</tt>
 
 This is with code: <code>foo</code>
